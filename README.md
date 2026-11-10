@@ -204,4 +204,4 @@ This repository serves as the official landing page for Hex Cats. The software i
 **Get the most recent version of Hex Cats today!**
 
 ---
-**Last updated:** 2026-11-10 14:28:19 UTC
+**Last updated:** 2026-11-10 21:12:11 UTC
